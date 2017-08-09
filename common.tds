@@ -1,0 +1,7 @@
+
+Function CanLogout
+  On Error Resume Next
+  msgbox "Dummy"
+  CanLogout = DefaultRes
+  On Error GoTo 0
+End Function
